@@ -25,7 +25,7 @@ if (localStorage.theme) {
 }
 
 // Check for updates
-checkVersion();
+//checkVersion();
 
 // fetch queries
 store.dispatch<any>(fetchQueries());
